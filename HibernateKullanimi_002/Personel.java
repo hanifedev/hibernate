@@ -20,5 +20,5 @@ public class Personel {
 	}
 	public void setPersonelAdi(String personelAdi) {
 		this.personelAdi = personelAdi;
-	}
+	}	
 }

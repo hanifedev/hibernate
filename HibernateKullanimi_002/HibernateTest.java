@@ -12,11 +12,12 @@ public class HibernateTest {
 		Personel personel = new Personel();
 		personel.setPersonelid(1);
 		personel.setPersonelAdi("Hanife");
+		personel.setPersonelid(2);
+		personel.setPersonelAdi("Ayse");
 		SessionFactory sessionFactory = new Configuration().configure().buildSessionFactory();
 		Session session = sessionFactory.openSession();
 		session.beginTransaction();
 		session.save(personel);
 		session.getTransaction().commit();
 	}
-
 }
