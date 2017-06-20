@@ -4,3 +4,6 @@ Hibernate açık kaynaklı ücretsiz bir frameworktur. Java sınıflarından ver
 
 - [Hibernate ile veritabanında tablo oluşturma ve kayıt ekleme](https://github.com/hanifekurnaz/hibernate/tree/master/HibernateKullanimi_001)
 - [Hibernate ile veritabanındaki tabloyu güncelleme](https://github.com/hanifekurnaz/hibernate/tree/master/HibernateKullanimi_002)
+- [JPA ile kayıt ekleme](https://github.com/hanifekurnaz/hibernate/tree/master/JPAKullanimi_001)
+- [Parametresiz Named Query ile kayıt ekleme](https://github.com/hanifekurnaz/hibernate/tree/master/NamedQueryKullanimi_001)
+- [Parametreli Named Query ile kayıt ekleme](https://github.com/hanifekurnaz/hibernate/tree/master/NamedQueryKullanimi_002)
